@@ -90,8 +90,8 @@ class MediaGallery extends Component {
             type="Grid"
             color="#ED553b"
             className="loader"
-            height={500}
-            width={500}
+            height={"20%"}
+            width={"20%"}
             timeout={0} //3 secs
         />);
     }
